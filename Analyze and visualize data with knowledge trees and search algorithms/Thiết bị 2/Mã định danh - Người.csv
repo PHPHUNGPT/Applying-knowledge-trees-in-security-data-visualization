@@ -1,0 +1,611 @@
+Ghi âm,Thẻ,Bình luận,Mã định danh,Tên cột,Dữ liệu dấu vết,ID dữ liệu dấu vết,Nguồn,Vị trí,Mã số bằng chứng,Nguồn đã xóa,Phương pháp phục hồi,ID mục
+1,,,fec772d7-8795-484e-bd3c-88960e375ba5,Advertising ID,Android Device Information,100,samsung SM-A750GN Nhanh Image.zip\Agent Data\Android AD ID.txt,Agent Data\Android AD ID.txt,samsung SM-A750GN Nhanh Image,,,114
+2,,,+84337705477,Device Phone Number,Android Device Information,101,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_sim.db,Table: data(_id: 1),samsung SM-A750GN Nhanh Image,,,120
+3,,,vuquynhchau1809@gmail.com,User Name,Accounts Information,151,samsung SM-A750GN Nhanh Image.zip\Live Data\Dumpsys Data\account.txt,"File Offset 126
+File Offset 158",samsung SM-A750GN Nhanh Image,,,152
+4,,,Microsoft 365,User Name,Accounts Information,154,samsung SM-A750GN Nhanh Image.zip\Live Data\Dumpsys Data\account.txt,"File Offset 197
+File Offset 217",samsung SM-A750GN Nhanh Image,,,155
+5,,,100004355167590,User Name,Accounts Information,157,samsung SM-A750GN Nhanh Image.zip\Live Data\Dumpsys Data\account.txt,"File Offset 258
+File Offset 280",samsung SM-A750GN Nhanh Image,,,158
+6,,,100012866380995,User Name,Accounts Information,160,samsung SM-A750GN Nhanh Image.zip\Live Data\Dumpsys Data\account.txt,"File Offset 324
+File Offset 346",samsung SM-A750GN Nhanh Image,,,161
+7,,,vuquynhchau1809@outlook.com,User Name,Accounts Information,162,samsung SM-A750GN Nhanh Image.zip\Live Data\Dumpsys Data\account.txt,"File Offset 390
+File Offset 424",samsung SM-A750GN Nhanh Image,,,165
+8,,,triimi1809@gmail.com,User Name,Accounts Information,166,samsung SM-A750GN Nhanh Image.zip\Live Data\Dumpsys Data\account.txt,"File Offset 68
+File Offset 95",samsung SM-A750GN Nhanh Image,,,171
+9,,,WhatsApp,User Name,Accounts Information,164,samsung SM-A750GN Nhanh Image.zip\Live Data\Dumpsys Data\account.txt,"File Offset 467
+File Offset 482",samsung SM-A750GN Nhanh Image,,,175
+10,,,Cv C Nhung Kt,Display Name,Android Contacts,777,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 1),samsung SM-A750GN Nhanh Image,,,786
+11,,,Di Động: 0912627272,Phone Number(s),Android Contacts,777,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 1),samsung SM-A750GN Nhanh Image,,,788
+12,,,primary.sim.account_name,Source Account Name(s),Android Contacts,777,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 1),samsung SM-A750GN Nhanh Image,,,789
+13,,,Beta Oanh Be Cs3,Display Name,Android Contacts,787,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 2),samsung SM-A750GN Nhanh Image,,,791
+14,,,Di Động: 0398789616,Phone Number(s),Android Contacts,787,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 2),samsung SM-A750GN Nhanh Image,,,792
+15,,,Cv C Thu Lx,Display Name,Android Contacts,806,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 3),samsung SM-A750GN Nhanh Image,,,809
+16,,,Di Động: 0913098230,Phone Number(s),Android Contacts,806,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 3),samsung SM-A750GN Nhanh Image,,,811
+17,,,Beta Hung Cs3,Display Name,Android Contacts,821,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 4),samsung SM-A750GN Nhanh Image,,,825
+18,,,Di Động: 0382134447,Phone Number(s),Android Contacts,821,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 4),samsung SM-A750GN Nhanh Image,,,827
+19,,,Beta Thanh Cs3,Display Name,Android Contacts,848,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 5),samsung SM-A750GN Nhanh Image,,,851
+20,,,Di Động: 0327131138,Phone Number(s),Android Contacts,848,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 5),samsung SM-A750GN Nhanh Image,,,854
+21,,,Cv Huong Bda1,Display Name,Android Contacts,871,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 6),samsung SM-A750GN Nhanh Image,,,872
+22,,,Di Động: 0349383618,Phone Number(s),Android Contacts,871,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 6),samsung SM-A750GN Nhanh Image,,,873
+23,,,Chú Văn,Display Name,Android Contacts,875,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 7),samsung SM-A750GN Nhanh Image,,,876
+24,,,Di Động: 0983006113,Phone Number(s),Android Contacts,875,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 7),samsung SM-A750GN Nhanh Image,,,877
+25,,,Cv C Ngoc Anh Bda5,Display Name,Android Contacts,912,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 8),samsung SM-A750GN Nhanh Image,,,917
+26,,,Di Động: 0965758255,Phone Number(s),Android Contacts,912,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 8),samsung SM-A750GN Nhanh Image,,,922
+27,,,Tb A Muoi PKT,Display Name,Android Contacts,962,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 9),samsung SM-A750GN Nhanh Image,,,965
+28,,,Di Động: 0989090773,Phone Number(s),Android Contacts,962,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 9),samsung SM-A750GN Nhanh Image,,,967
+29,,,Cv Co Hoa Csgd,Display Name,Android Contacts,1053,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 10),samsung SM-A750GN Nhanh Image,,,1062
+30,,,Di Động: 0332694988,Phone Number(s),Android Contacts,1053,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 10),samsung SM-A750GN Nhanh Image,,,1067
+31,,,Cv C Yen Tu Sat,Display Name,Android Contacts,1104,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 11),samsung SM-A750GN Nhanh Image,,,1110
+32,,,Di Động: 0973040496,Phone Number(s),Android Contacts,1104,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 11),samsung SM-A750GN Nhanh Image,,,1114
+33,,,Cv Mi A Cuong Hcm,Display Name,Android Contacts,1145,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 12),samsung SM-A750GN Nhanh Image,,,1152
+34,,,Di Động: 0931243755,Phone Number(s),Android Contacts,1145,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 12),samsung SM-A750GN Nhanh Image,,,1159
+35,,,Beta Yen Cs3,Display Name,Android Contacts,1192,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 13),samsung SM-A750GN Nhanh Image,,,1198
+36,,,Di Động: 0979263060,Phone Number(s),Android Contacts,1192,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 13),samsung SM-A750GN Nhanh Image,,,1203
+37,,,Beta A Hieu Cs3,Display Name,Android Contacts,1238,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 14),samsung SM-A750GN Nhanh Image,,,1243
+38,,,Di Động: 0327994901,Phone Number(s),Android Contacts,1238,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 14),samsung SM-A750GN Nhanh Image,,,1247
+39,,,Cty Hcm A Cuong,Display Name,Android Contacts,1281,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 15),samsung SM-A750GN Nhanh Image,,,1285
+40,,,Di Động: 0965826552,Phone Number(s),Android Contacts,1281,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 15),samsung SM-A750GN Nhanh Image,,,1289
+41,,,Cty TAnh A Hai 2,Display Name,Android Contacts,1324,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 16),samsung SM-A750GN Nhanh Image,,,1326
+42,,,Di Động: 0912979738,Phone Number(s),Android Contacts,1324,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 16),samsung SM-A750GN Nhanh Image,,,1328
+43,,,0,Device User ID,Application Activity - Android,1332,samsung SM-A750GN Nhanh Image.zip\Live Data\task_stats.txt,n/a,samsung SM-A750GN Nhanh Image,,,1337
+44,,,Cv C Linh Vp,Display Name,Android Contacts,1363,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 17),samsung SM-A750GN Nhanh Image,,,1367
+45,,,Di Động: 0902202029,Phone Number(s),Android Contacts,1363,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 17),samsung SM-A750GN Nhanh Image,,,1370
+46,,,Beta Cuong Cs3,Display Name,Android Contacts,1407,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 18),samsung SM-A750GN Nhanh Image,,,1410
+47,,,Di Động: 0856605939,Phone Number(s),Android Contacts,1407,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 18),samsung SM-A750GN Nhanh Image,,,1412
+48,,,Beta Tung Cs3,Display Name,Android Contacts,1457,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 19),samsung SM-A750GN Nhanh Image,,,1464
+49,,,Di Động: 0947632659,Phone Number(s),Android Contacts,1457,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 19),samsung SM-A750GN Nhanh Image,,,1465
+50,,,Beta Son Cs3,Display Name,Android Contacts,1495,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 20),samsung SM-A750GN Nhanh Image,,,1503
+51,,,Di Động: 0962612610,Phone Number(s),Android Contacts,1495,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 20),samsung SM-A750GN Nhanh Image,,,1507
+52,,,Beta Trang Cs3,Display Name,Android Contacts,1538,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 21),samsung SM-A750GN Nhanh Image,,,1544
+53,,,Di Động: 0987060088,Phone Number(s),Android Contacts,1538,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 21),samsung SM-A750GN Nhanh Image,,,1549
+54,,,Phhs C Huyen Tran,Display Name,Android Contacts,1571,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 22),samsung SM-A750GN Nhanh Image,,,1577
+55,,,Di Động: 0981353858,Phone Number(s),Android Contacts,1571,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 22),samsung SM-A750GN Nhanh Image,,,1581
+56,,,Tb A Thai Anh Bda2,Display Name,Android Contacts,1611,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 23),samsung SM-A750GN Nhanh Image,,,1620
+57,,,Di Động: 0869079390,Phone Number(s),Android Contacts,1611,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 23),samsung SM-A750GN Nhanh Image,,,1626
+58,,,TTX C Hung PTGD,Display Name,Android Contacts,1655,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 24),samsung SM-A750GN Nhanh Image,,,1658
+59,,,Di Động: 0903413489,Phone Number(s),Android Contacts,1655,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 24),samsung SM-A750GN Nhanh Image,,,1662
+60,,,01 Huy 2,Display Name,Android Contacts,1752,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 25),samsung SM-A750GN Nhanh Image,,,1760
+61,,,Di Động: 0865382789,Phone Number(s),Android Contacts,1752,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 25),samsung SM-A750GN Nhanh Image,,,1764
+62,,,Tim Gr A Tuan Anh,Display Name,Android Contacts,1811,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 26),samsung SM-A750GN Nhanh Image,,,1818
+63,,,Di Động: 0918820022,Phone Number(s),Android Contacts,1811,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 26),samsung SM-A750GN Nhanh Image,,,1820
+64,,,K02 C Xuan Ptp5,Display Name,Android Contacts,1857,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 27),samsung SM-A750GN Nhanh Image,,,1864
+65,,,Di Động: 0943051555,Phone Number(s),Android Contacts,1857,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 27),samsung SM-A750GN Nhanh Image,,,1866
+66,,,Hq Hieu,Display Name,Android Contacts,1879,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 29),samsung SM-A750GN Nhanh Image,,,1880
+67,,,Di Động: 0978759786,Phone Number(s),Android Contacts,1879,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 29),samsung SM-A750GN Nhanh Image,,,1881
+68,,,Tb A Dung Bda2,Display Name,Android Contacts,1878,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 28),samsung SM-A750GN Nhanh Image,,,1884
+69,,,Di Động: 0978688144,Phone Number(s),Android Contacts,1878,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 28),samsung SM-A750GN Nhanh Image,,,1885
+70,,,T07 Diep D11,Display Name,Android Contacts,1889,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 30),samsung SM-A750GN Nhanh Image,,,1890
+71,,,Di Động: 0328897355,Phone Number(s),Android Contacts,1889,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 30),samsung SM-A750GN Nhanh Image,,,1891
+72,,,T07 Thay Bau,Display Name,Android Contacts,1894,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 31),samsung SM-A750GN Nhanh Image,,,1895
+73,,,Di Động: 0916322789,Phone Number(s),Android Contacts,1894,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 31),samsung SM-A750GN Nhanh Image,,,1896
+74,,,0975866892,Participants,Android SMS/MMS (Content Provider),1899,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 3),samsung SM-A750GN Nhanh Image,,,1900
+75,,,0981188169,Participants,Android SMS/MMS (Content Provider),1901,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 4),samsung SM-A750GN Nhanh Image,,,1902
+76,,,+84987706825,Participants,Android SMS/MMS (Content Provider),1904,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 6),samsung SM-A750GN Nhanh Image,,,1905
+77,,,0986919333,Participants,Android SMS/MMS (Content Provider),1906,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 7),samsung SM-A750GN Nhanh Image,,,1907
+78,,,+84987706863,Participants,Android SMS/MMS (Content Provider),1908,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 8),samsung SM-A750GN Nhanh Image,,,1910
+79,,,T07 Hai D10,Display Name,Android Contacts,1911,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 32),samsung SM-A750GN Nhanh Image,,,1913
+80,,,1414,Participants,Android SMS/MMS (Content Provider),1912,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 10),samsung SM-A750GN Nhanh Image,,,1914
+81,,,Di Động: 0943640209,Phone Number(s),Android Contacts,1911,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 32),samsung SM-A750GN Nhanh Image,,,1915
+82,,,191,Participants,Android SMS/MMS (Content Provider),1919,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 14),samsung SM-A750GN Nhanh Image,,,1921
+83,,,T07 Thay Bau (0916322789),Participants,Android SMS/MMS (Content Provider),1923,"samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db
+samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db","Table: mmssms(rowid: 16)
+Table: acquired_contacts(Id: 31)",samsung SM-A750GN Nhanh Image,,,1926
+84,,,6020,Participants,Android SMS/MMS (Content Provider),1937,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 20),samsung SM-A750GN Nhanh Image,,,1940
+85,,,Cv C Dung AnhDuong,Display Name,Android Contacts,1951,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 33),samsung SM-A750GN Nhanh Image,,,1954
+86,,,Di Động: 0904280097,Phone Number(s),Android Contacts,1951,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 33),samsung SM-A750GN Nhanh Image,,,1956
+87,,,Cv C Thuy Kho 19.5,Display Name,Android Contacts,2006,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 34),samsung SM-A750GN Nhanh Image,,,2007
+88,,,Di Động: 0974509893,Phone Number(s),Android Contacts,2006,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 34),samsung SM-A750GN Nhanh Image,,,2008
+89,,,+84337705477,Participants,Android SMS/MMS (Content Provider),1898,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,"Table: mmssms(rowid: 2)
+Table: data(rowid: 2)",samsung SM-A750GN Nhanh Image,,,2016
+90,,,-,Participants,Android SMS/MMS (Content Provider),2015,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 36),samsung SM-A750GN Nhanh Image,,,2018
+91,,,195,Participants,Android SMS/MMS (Content Provider),2037,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 41),samsung SM-A750GN Nhanh Image,,,2038
+92,,,Beta Thuc Cs1,Display Name,Android Contacts,2056,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 35),samsung SM-A750GN Nhanh Image,,,2057
+93,,,Di Động: 0379159301,Phone Number(s),Android Contacts,2056,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 35),samsung SM-A750GN Nhanh Image,,,2058
+94,,,9345,Participants,Android SMS/MMS (Content Provider),2090,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 49),samsung SM-A750GN Nhanh Image,,,2091
+95,,,Beta A Luan Cs3,Display Name,Android Contacts,2102,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 36),samsung SM-A750GN Nhanh Image,,,2106
+96,,,Di Động: 0968258692,Phone Number(s),Android Contacts,2102,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 36),samsung SM-A750GN Nhanh Image,,,2108
+97,,,9778,Participants,Android SMS/MMS (Content Provider),2116,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 54),samsung SM-A750GN Nhanh Image,,,2119
+98,,,9118,Participants,Android SMS/MMS (Content Provider),2125,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 56),samsung SM-A750GN Nhanh Image,,,2126
+99,,,360,Participants,Android SMS/MMS (Content Provider),2121,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 55),samsung SM-A750GN Nhanh Image,,,2138
+100,,,155,Participants,Android SMS/MMS (Content Provider),2166,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 65),samsung SM-A750GN Nhanh Image,,,2172
+101,,,Cv C Thuy E111,Display Name,Android Contacts,2173,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 37),samsung SM-A750GN Nhanh Image,,,2179
+102,,,Di Động: 0395780381,Phone Number(s),Android Contacts,2173,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 37),samsung SM-A750GN Nhanh Image,,,2185
+103,,,4,Participants,Android SMS/MMS (Content Provider),2197,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 72),samsung SM-A750GN Nhanh Image,,,2201
+104,,,211,Participants,Android SMS/MMS (Content Provider),2216,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 77),samsung SM-A750GN Nhanh Image,,,2221
+105,,,+84975866892,Participants,Android SMS/MMS (Content Provider),2222,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 78),samsung SM-A750GN Nhanh Image,,,2228
+106,,,Cv C Kimanh Kt,Display Name,Android Contacts,2243,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 38),samsung SM-A750GN Nhanh Image,,,2246
+107,,,Di Động: 0984238868,Phone Number(s),Android Contacts,2243,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 38),samsung SM-A750GN Nhanh Image,,,2251
+108,,,1357,Participants,Android SMS/MMS (Content Provider),2248,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 90),samsung SM-A750GN Nhanh Image,,,2253
+109,,,262,Participants,Android SMS/MMS (Content Provider),2254,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 93),samsung SM-A750GN Nhanh Image,,,2259
+110,,,+84981188169,Participants,Android SMS/MMS (Content Provider),2266,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 102),samsung SM-A750GN Nhanh Image,,,2267
+111,,,K30 Huong 1,Display Name,Android Contacts,2261,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 39),samsung SM-A750GN Nhanh Image,,,2276
+112,,,Di Động: 0969662881,Phone Number(s),Android Contacts,2261,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 39),samsung SM-A750GN Nhanh Image,,,2278
+113,,,900,Participants,Android SMS/MMS (Content Provider),2277,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 108),samsung SM-A750GN Nhanh Image,,,2280
+114,,,K30 Anh 2,Display Name,Android Contacts,2281,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 40),samsung SM-A750GN Nhanh Image,,,2289
+115,,,Di Động: 0368391219,Phone Number(s),Android Contacts,2281,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 40),samsung SM-A750GN Nhanh Image,,,2291
+116,,,Beta Quynh Cs3,Display Name,Android Contacts,2288,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 41),samsung SM-A750GN Nhanh Image,,,2293
+117,,,Di Động: 0393176668,Phone Number(s),Android Contacts,2288,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 41),samsung SM-A750GN Nhanh Image,,,2295
+118,,,Beta Hoa Cs3,Display Name,Android Contacts,2303,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 42),samsung SM-A750GN Nhanh Image,,,2306
+119,,,Di Động: 0395087445,Phone Number(s),Android Contacts,2303,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 42),samsung SM-A750GN Nhanh Image,,,2308
+120,,,Beta Ngan Cs3,Display Name,Android Contacts,2312,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 43),samsung SM-A750GN Nhanh Image,,,2314
+121,,,Di Động: 0988220661,Phone Number(s),Android Contacts,2312,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 43),samsung SM-A750GN Nhanh Image,,,2317
+122,,,Beta Huyen Cs3,Display Name,Android Contacts,2321,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 44),samsung SM-A750GN Nhanh Image,,,2325
+123,,,Di Động: 0373054046,Phone Number(s),Android Contacts,2321,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 44),samsung SM-A750GN Nhanh Image,,,2329
+124,,,Beta Xuan Cs3,Display Name,Android Contacts,2331,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 45),samsung SM-A750GN Nhanh Image,,,2335
+125,,,Di Động: 0973524937,Phone Number(s),Android Contacts,2331,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 45),samsung SM-A750GN Nhanh Image,,,2339
+126,,,9598,Participants,Android SMS/MMS (Content Provider),2297,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 119),samsung SM-A750GN Nhanh Image,,,2341
+127,,,0914396068,Partner,Android Call Logs,2349,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 1),samsung SM-A750GN Nhanh Image,,,2355
+128,,,0988435640,Partner,Android Call Logs,2361,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 7),samsung SM-A750GN Nhanh Image,,,2363
+129,,,0987706825,Partner,Android Call Logs,2380,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 17),samsung SM-A750GN Nhanh Image,,,2381
+130,,,0326860265,Partner,Android Call Logs,2395,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 26),samsung SM-A750GN Nhanh Image,,,2398
+131,,,0378365444,Partner,Android Call Logs,2399,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 29),samsung SM-A750GN Nhanh Image,,,2402
+132,,,0963214854,Partner,Android Call Logs,2413,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 40),samsung SM-A750GN Nhanh Image,,,2418
+133,,,1400,Participants,Android SMS/MMS (Content Provider),2419,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 167),samsung SM-A750GN Nhanh Image,,,2424
+134,,,0348804545,Partner,Android Call Logs,2420,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 45),samsung SM-A750GN Nhanh Image,,,2428
+135,,,0986187100,Partner,Android Call Logs,2427,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 48),samsung SM-A750GN Nhanh Image,,,2434
+136,,,Cv C Nha Tre,Display Name,Android Contacts,2433,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 46),samsung SM-A750GN Nhanh Image,,,2437
+137,,,Di Động: 0333467139,Phone Number(s),Android Contacts,2433,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 46),samsung SM-A750GN Nhanh Image,,,2441
+138,,,0968390897,Partner,Android Call Logs,2447,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 59),samsung SM-A750GN Nhanh Image,,,2450
+139,,,02456783705,Partner,Android Call Logs,2456,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 64),samsung SM-A750GN Nhanh Image,,,2462
+140,,,E112 A Thien Lxe,Display Name,Android Contacts,2464,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 47),samsung SM-A750GN Nhanh Image,,,2467
+141,,,0973135892,Partner,Android Call Logs,2463,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 68),samsung SM-A750GN Nhanh Image,,,2469
+142,,,Di Động: 0912291700,Phone Number(s),Android Contacts,2464,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 47),samsung SM-A750GN Nhanh Image,,,2470
+143,,,Cv C Luyen Dhnn,Display Name,Android Contacts,2473,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 48),samsung SM-A750GN Nhanh Image,,,2480
+144,,,Di Động: 0858405959,Phone Number(s),Android Contacts,2473,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 48),samsung SM-A750GN Nhanh Image,,,2485
+145,,,Beta Nguyet Cs3,Display Name,Android Contacts,2482,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 49),samsung SM-A750GN Nhanh Image,,,2489
+146,,,Di Động: 0363661998,Phone Number(s),Android Contacts,2482,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 49),samsung SM-A750GN Nhanh Image,,,2491
+147,,,Thầy Minh,Display Name,Android Contacts,2493,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 50),samsung SM-A750GN Nhanh Image,,,2500
+148,,,0943640209,Partner,Android Call Logs,2459,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 66),samsung SM-A750GN Nhanh Image,,,2503
+149,,,Di Động: 0915169919,Phone Number(s),Android Contacts,2493,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 50),samsung SM-A750GN Nhanh Image,,,2505
+150,,,T07 Hai D10,Partner Name,Android Call Logs,2459,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 66),samsung SM-A750GN Nhanh Image,,,2506
+151,,,Beta Giang Cs3,Display Name,Android Contacts,2499,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 51),samsung SM-A750GN Nhanh Image,,,2509
+152,,,Di Động: 0395645213,Phone Number(s),Android Contacts,2499,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 51),samsung SM-A750GN Nhanh Image,,,2514
+153,,,Gd Me Anh Duong,Display Name,Android Contacts,2522,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 52),samsung SM-A750GN Nhanh Image,,,2530
+154,,,Di Động: 0772286893,Phone Number(s),Android Contacts,2522,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 52),samsung SM-A750GN Nhanh Image,,,2534
+155,,,0975866892,Partner,Android Call Logs,2527,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 101),samsung SM-A750GN Nhanh Image,,,2537
+156,,,Cty NSing C Linh,Display Name,Android Contacts,2543,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 53),samsung SM-A750GN Nhanh Image,,,2549
+157,,,Di Động: 0962923822,Phone Number(s),Android Contacts,2543,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 53),samsung SM-A750GN Nhanh Image,,,2552
+158,,,0375303104,Partner,Android Call Logs,2561,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 113),samsung SM-A750GN Nhanh Image,,,2567
+159,,,Tb A Manh Vp,Display Name,Android Contacts,2562,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 54),samsung SM-A750GN Nhanh Image,,,2569
+160,,,Di Động: 0983668689,Phone Number(s),Android Contacts,2562,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 54),samsung SM-A750GN Nhanh Image,,,2573
+161,,,0353442901,Partner,Android Call Logs,2575,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 118),samsung SM-A750GN Nhanh Image,,,2579
+162,,,T07 Co Thao K3,Display Name,Android Contacts,2582,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 55),samsung SM-A750GN Nhanh Image,,,2589
+163,,,Di Động: 0912833488,Phone Number(s),Android Contacts,2582,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts3.db,Table: acquired_contacts(Id: 55),samsung SM-A750GN Nhanh Image,,,2595
+164,,,8987706863,Partner,Android Call Logs,2601,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 129),samsung SM-A750GN Nhanh Image,,,2611
+165,,,0987706863,Partner,Android Call Logs,2604,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 128),samsung SM-A750GN Nhanh Image,,,2615
+166,,,0914968799,Partner,Android Call Logs,2617,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 135),samsung SM-A750GN Nhanh Image,,,2622
+167,,,+84916322789,Participants,Android SMS/MMS (Content Provider),2627,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 235),samsung SM-A750GN Nhanh Image,,,2630
+168,,,0386951895,Partner,Android Call Logs,2651,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 149),samsung SM-A750GN Nhanh Image,,,2659
+169,,,Chau Vu,Partner Name,Android Call Logs,2651,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 149),samsung SM-A750GN Nhanh Image,,,2663
+170,,,1900252506,Partner,Android Call Logs,2661,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 154),samsung SM-A750GN Nhanh Image,,,2669
+171,,,02499996926,Partner,Android Call Logs,2675,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 158),samsung SM-A750GN Nhanh Image,,,2682
+172,,,1098,Participants,Android SMS/MMS (Content Provider),2680,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 263),samsung SM-A750GN Nhanh Image,,,2685
+173,,,1576,Participants,Android SMS/MMS (Content Provider),2681,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 264),samsung SM-A750GN Nhanh Image,,,2699
+174,,,0912105489,Partner,Android Call Logs,2712,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 173),samsung SM-A750GN Nhanh Image,,,2720
+175,,,0981188169,Partner,Android Call Logs,2721,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 177),samsung SM-A750GN Nhanh Image,,,2726
+176,,,0858383436,Partner,Android Call Logs,2778,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 188),samsung SM-A750GN Nhanh Image,,,2781
+177,,,1530,Participants,Android SMS/MMS (Content Provider),2872,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 361),samsung SM-A750GN Nhanh Image,,,2888
+178,,,+84964409634,Participants,Android SMS/MMS (Content Provider),2876,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 363),samsung SM-A750GN Nhanh Image,,,2912
+179,,,+6020,Participants,Android SMS/MMS (Content Provider),3004,samsung SM-A750GN Nhanh Image.zip\Agent Data\agent_mmssms.db,Table: mmssms(rowid: 422),samsung SM-A750GN Nhanh Image,,,3019
+180,,,02499953288,Partner,Android Call Logs,3049,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 239),samsung SM-A750GN Nhanh Image,,,3070
+181,,,+84987706863,Partner,Android Call Logs,3101,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 250),samsung SM-A750GN Nhanh Image,,,3112
+182,,,0984648960,Partner,Android Call Logs,3154,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 265),samsung SM-A750GN Nhanh Image,,,3168
+183,,,0978688641,Partner,Android Call Logs,3167,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 278),samsung SM-A750GN Nhanh Image,,,3171
+184,,,0334924392,Partner,Android Call Logs,3201,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 309),samsung SM-A750GN Nhanh Image,,,3216
+185,,,0986919333,Partner,Android Call Logs,3219,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 327),samsung SM-A750GN Nhanh Image,,,3226
+186,,,02499968484,Partner,Android Call Logs,3240,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 347),samsung SM-A750GN Nhanh Image,,,3246
+187,,,0963988116,Partner,Android Call Logs,3180,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 289),samsung SM-A750GN Nhanh Image,,,3256
+188,,,0988630692,Partner,Android Call Logs,3241,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 348),samsung SM-A750GN Nhanh Image,,,3278
+189,,,+84914396068,Partner,Android Call Logs,3309,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 416),samsung SM-A750GN Nhanh Image,,,3318
+190,,,0985567118,Partner,Android Call Logs,3360,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 463),samsung SM-A750GN Nhanh Image,,,3366
+191,,,0916322789,Partner,Android Call Logs,3385,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 487),samsung SM-A750GN Nhanh Image,,,3393
+192,,,T07 Thay Bau,Partner Name,Android Call Logs,3387,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 489),samsung SM-A750GN Nhanh Image,,,3395
+193,,,+84342035123,Partner,Android Call Logs,3365,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 467),samsung SM-A750GN Nhanh Image,,,3409
+194,,,0974040958,Partner,Android Call Logs,3404,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 504),samsung SM-A750GN Nhanh Image,,,3422
+195,,,0972566693,Partner,Android Call Logs,3416,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 515),samsung SM-A750GN Nhanh Image,,,3426
+196,,,0989608921,Partner,Android Call Logs,3436,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 533),samsung SM-A750GN Nhanh Image,,,3455
+197,,,1098,Partner,Android Call Logs,3450,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 548),samsung SM-A750GN Nhanh Image,,,3461
+198,,,0398083604,Partner,Android Call Logs,3463,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 558),samsung SM-A750GN Nhanh Image,,,3466
+199,,,09806825,Partner,Android Call Logs,3427,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 523),samsung SM-A750GN Nhanh Image,,,3469
+200,,,0987474751,Partner,Android Call Logs,3464,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 559),samsung SM-A750GN Nhanh Image,,,3480
+201,,,02499968274,Partner,Android Call Logs,3492,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 584),samsung SM-A750GN Nhanh Image,,,3529
+202,,,0328897355,Partner,Android Call Logs,3526,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 618),samsung SM-A750GN Nhanh Image,,,3541
+203,,,T07 Diep D11,Partner Name,Android Call Logs,3526,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 618),samsung SM-A750GN Nhanh Image,,,3542
+204,,,0936282629,Partner,Android Call Logs,3543,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 632),samsung SM-A750GN Nhanh Image,,,3545
+205,,,0964371598,Partner,Android Call Logs,3544,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 633),samsung SM-A750GN Nhanh Image,,,3549
+206,,,0914010981,Partner,Android Call Logs,3493,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 585),samsung SM-A750GN Nhanh Image,,,3556
+207,,,0917948292,Partner,Android Call Logs,3554,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 641),samsung SM-A750GN Nhanh Image,,,3558
+208,,,0366075833,Partner,Android Call Logs,3575,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 660),samsung SM-A750GN Nhanh Image,,,3581
+209,,,0868954850,Partner,Android Call Logs,3579,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 661),samsung SM-A750GN Nhanh Image,,,3585
+210,,,19001731,Partner,Android Call Logs,3589,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 672),samsung SM-A750GN Nhanh Image,,,3596
+211,,,0358367968,Partner,Android Call Logs,3580,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 665),samsung SM-A750GN Nhanh Image,,,3612
+212,,,0384594282,Partner,Android Call Logs,3576,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 662),samsung SM-A750GN Nhanh Image,,,3625
+213,,,0934406912,Partner,Android Call Logs,3637,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 716),samsung SM-A750GN Nhanh Image,,,3644
+214,,,0377381238,Partner,Android Call Logs,3670,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 748),samsung SM-A750GN Nhanh Image,,,3684
+215,,,0399325799,Partner,Android Call Logs,3681,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 759),samsung SM-A750GN Nhanh Image,,,3695
+216,,,0966389111,Partner,Android Call Logs,3696,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 773),samsung SM-A750GN Nhanh Image,,,3708
+217,,,0916603888,Partner,Android Call Logs,3725,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 801),samsung SM-A750GN Nhanh Image,,,3750
+218,,,0989787338,Partner,Android Call Logs,3759,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 833),samsung SM-A750GN Nhanh Image,,,3789
+219,,,02499998271,Partner,Android Call Logs,3743,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 818),samsung SM-A750GN Nhanh Image,,,3798
+220,,,0368764649,Partner,Android Call Logs,3839,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 911),samsung SM-A750GN Nhanh Image,,,3854
+221,,,0948068189,Partner,Android Call Logs,3849,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 920),samsung SM-A750GN Nhanh Image,,,3866
+222,,,0901566816,Partner,Android Call Logs,3944,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 1014),samsung SM-A750GN Nhanh Image,,,3952
+223,,,02499986545,Partner,Android Call Logs,3982,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 1052),samsung SM-A750GN Nhanh Image,,,3993
+224,,,0974586699,Partner,Android Call Logs,3968,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 1037),samsung SM-A750GN Nhanh Image,,,4029
+225,,,0978074333,Partner,Android Call Logs,4042,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 1109),samsung SM-A750GN Nhanh Image,,,4051
+226,,,0988107432,Partner,Android Call Logs,4052,samsung SM-A750GN Nhanh Image.zip\Agent Data\contacts2.db,Table: calls(id: 1118),samsung SM-A750GN Nhanh Image,,,4055
+227,,,253710886,Sender ID,Twitter Direct Messages,4161,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.chicken.shooter.galaxyattack.space.invader\a\base.apk,File Offset 40422825,samsung SM-A750GN Nhanh Image,,,4162
+228,,,VIETTEL_DV,Sender,Android SMS/MMS,4166,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000001_mms_backup,"json[0] > Date
+json[0] > mms_addresses[0] > Address
+json[0] > mms_addresses[1] > Address
+json[0] > mms_body
+json[0] > msg_box
+json[0] > Read
+json[0] > Recipients",samsung SM-A750GN Nhanh Image,,,4168
+229,,,+84337705477,Recipient(s),Android SMS/MMS,4166,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000001_mms_backup,"json[0] > Date
+json[0] > mms_addresses[0] > Address
+json[0] > mms_addresses[1] > Address
+json[0] > mms_body
+json[0] > msg_box
+json[0] > Read
+json[0] > Recipients",samsung SM-A750GN Nhanh Image,,,4169
+230,,,+84987706825,Sender,Android SMS/MMS,4167,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000001_mms_backup,"json[1] > Date
+json[1] > mms_addresses[0] > Address
+json[1] > mms_addresses[1] > Address
+json[1] > mms_body
+json[1] > msg_box
+json[1] > Read
+json[1] > Recipients",samsung SM-A750GN Nhanh Image,,,4172
+231,,,SAMSUNG,Sender,Android SMS/MMS,4170,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[0] > Body
+json[0] > Recipients
+json[0] > Date
+json[0] > Type
+json[0] > Read
+json[0] > Address",samsung SM-A750GN Nhanh Image,,,4174
+232,,,Facebook,Sender,Android SMS/MMS,4173,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[2] > Body
+json[2] > Recipients
+json[2] > Date
+json[2] > Type
+json[2] > Read
+json[2] > Address",samsung SM-A750GN Nhanh Image,,,4176
+233,,,VIETTELCSKH,Sender,Android SMS/MMS,4177,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[4] > Body
+json[4] > Recipients
+json[4] > Date
+json[4] > Type
+json[4] > Read
+json[4] > Address",samsung SM-A750GN Nhanh Image,,,4179
+234,,,CA_TINH,Sender,Android SMS/MMS,4178,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[5] > Body
+json[5] > Recipients
+json[5] > Date
+json[5] > Type
+json[5] > Read
+json[5] > Address",samsung SM-A750GN Nhanh Image,,,4181
+235,,,262,Sender,Android SMS/MMS,4182,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[7] > Body
+json[7] > Recipients
+json[7] > Date
+json[7] > Type
+json[7] > Read
+json[7] > Address",samsung SM-A750GN Nhanh Image,,,4185
+236,,,191,Sender,Android SMS/MMS,4183,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[8] > Body
+json[8] > Recipients
+json[8] > Date
+json[8] > Type
+json[8] > Read
+json[8] > Address",samsung SM-A750GN Nhanh Image,,,4186
+237,,,NAPTHE_VT,Sender,Android SMS/MMS,4184,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[9] > Body
+json[9] > Recipients
+json[9] > Date
+json[9] > Type
+json[9] > Read
+json[9] > Address",samsung SM-A750GN Nhanh Image,,,4189
+238,,,VIETTEL,Sender,Android SMS/MMS,4187,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[10] > Body
+json[10] > Recipients
+json[10] > Date
+json[10] > Type
+json[10] > Read
+json[10] > Address",samsung SM-A750GN Nhanh Image,,,4190
+239,,,INTERNET_VT,Sender,Android SMS/MMS,4188,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[11] > Body
+json[11] > Recipients
+json[11] > Date
+json[11] > Type
+json[11] > Read
+json[11] > Address",samsung SM-A750GN Nhanh Image,,,4193
+240,,,9598,Sender,Android SMS/MMS,4194,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[14] > Body
+json[14] > Recipients
+json[14] > Date
+json[14] > Type
+json[14] > Read
+json[14] > Address",samsung SM-A750GN Nhanh Image,,,4196
+241,,,191,Recipient(s),Android SMS/MMS,4195,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[15] > Body
+json[15] > Address
+json[15] > Date
+json[15] > Type
+json[15] > Read
+json[15] > Recipients",samsung SM-A750GN Nhanh Image,,,4198
+242,,,VIETTEL_4G,Sender,Android SMS/MMS,4200,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[18] > Body
+json[18] > Recipients
+json[18] > Date
+json[18] > Type
+json[18] > Read
+json[18] > Address",samsung SM-A750GN Nhanh Image,,,4203
+243,,,MYVIETTELDV,Sender,Android SMS/MMS,4201,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[19] > Body
+json[19] > Recipients
+json[19] > Date
+json[19] > Type
+json[19] > Read
+json[19] > Address",samsung SM-A750GN Nhanh Image,,,4205
+244,,,VTMONEY_QC,Sender,Android SMS/MMS,4202,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[20] > Body
+json[20] > Recipients
+json[20] > Date
+json[20] > Type
+json[20] > Read
+json[20] > Address",samsung SM-A750GN Nhanh Image,,,4208
+245,,,6020,Recipient(s),Android SMS/MMS,4206,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[22] > Body
+json[22] > Address
+json[22] > Date
+json[22] > Type
+json[22] > Read
+json[22] > Recipients",samsung SM-A750GN Nhanh Image,,,4210
+246,,,VIETTELPLUS,Sender,Android SMS/MMS,4209,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[24] > Body
+json[24] > Recipients
+json[24] > Date
+json[24] > Type
+json[24] > Read
+json[24] > Address",samsung SM-A750GN Nhanh Image,,,4211
+247,,,+6020,Sender,Android SMS/MMS,4207,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[23] > Body
+json[23] > Recipients
+json[23] > Date
+json[23] > Type
+json[23] > Read
+json[23] > Address",samsung SM-A750GN Nhanh Image,,,4213
+248,,,VTMONEY,Sender,Android SMS/MMS,4212,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[25] > Body
+json[25] > Recipients
+json[25] > Date
+json[25] > Type
+json[25] > Read
+json[25] > Address",samsung SM-A750GN Nhanh Image,,,4216
+249,,,195,Sender,Android SMS/MMS,4219,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[30] > Body
+json[30] > Recipients
+json[30] > Date
+json[30] > Type
+json[30] > Read
+json[30] > Address",samsung SM-A750GN Nhanh Image,,,4222
+250,,,211,Sender,Android SMS/MMS,4226,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[36] > Body
+json[36] > Recipients
+json[36] > Date
+json[36] > Type
+json[36] > Read
+json[36] > Address",samsung SM-A750GN Nhanh Image,,,4229
+251,,,9778,Sender,Android SMS/MMS,4228,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[38] > Body
+json[38] > Recipients
+json[38] > Date
+json[38] > Type
+json[38] > Read
+json[38] > Address",samsung SM-A750GN Nhanh Image,,,4230
+252,,,9118,Sender,Android SMS/MMS,4227,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[37] > Body
+json[37] > Recipients
+json[37] > Date
+json[37] > Type
+json[37] > Read
+json[37] > Address",samsung SM-A750GN Nhanh Image,,,4235
+253,,,+84964409634,Sender,Android SMS/MMS,4234,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[42] > Body
+json[42] > Recipients
+json[42] > Date
+json[42] > Type
+json[42] > Read
+json[42] > Address",samsung SM-A750GN Nhanh Image,,,4237
+254,,,UBND TINH,Sender,Android SMS/MMS,4236,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[43] > Body
+json[43] > Recipients
+json[43] > Date
+json[43] > Type
+json[43] > Read
+json[43] > Address",samsung SM-A750GN Nhanh Image,,,4239
+255,,,155,Sender,Android SMS/MMS,4242,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[46] > Body
+json[46] > Recipients
+json[46] > Date
+json[46] > Type
+json[46] > Read
+json[46] > Address",samsung SM-A750GN Nhanh Image,,,4243
+256,,,TV360_DV,Sender,Android SMS/MMS,4259,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[63] > Body
+json[63] > Recipients
+json[63] > Date
+json[63] > Type
+json[63] > Read
+json[63] > Address",samsung SM-A750GN Nhanh Image,,,4261
+257,,,BO_TTTT,Sender,Android SMS/MMS,4262,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[65] > Body
+json[65] > Recipients
+json[65] > Date
+json[65] > Type
+json[65] > Read
+json[65] > Address",samsung SM-A750GN Nhanh Image,,,4264
+258,,,1530,Sender,Android SMS/MMS,4282,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[84] > Body
+json[84] > Recipients
+json[84] > Date
+json[84] > Type
+json[84] > Read
+json[84] > Address",samsung SM-A750GN Nhanh Image,,,4283
+259,,,VIETTEL_QC,Sender,Android SMS/MMS,4292,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[93] > Body
+json[93] > Recipients
+json[93] > Date
+json[93] > Type
+json[93] > Read
+json[93] > Address",samsung SM-A750GN Nhanh Image,,,4293
+260,,,BO CONG AN,Sender,Android SMS/MMS,4303,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[103] > Body
+json[103] > Recipients
+json[103] > Date
+json[103] > Type
+json[103] > Read
+json[103] > Address",samsung SM-A750GN Nhanh Image,,,4305
+261,,,+84987706863,Sender,Android SMS/MMS,4307,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[105] > Body
+json[105] > Recipients
+json[105] > Date
+json[105] > Type
+json[105] > Read
+json[105] > Address",samsung SM-A750GN Nhanh Image,,,4309
+262,,,+84987706863,Recipient(s),Android SMS/MMS,4311,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[108] > Body
+json[108] > Address
+json[108] > Date
+json[108] > Type
+json[108] > Read
+json[108] > Recipients",samsung SM-A750GN Nhanh Image,,,4313
+263,,,LAZADA,Sender,Android SMS/MMS,4318,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[114] > Body
+json[114] > Recipients
+json[114] > Date
+json[114] > Type
+json[114] > Read
+json[114] > Address",samsung SM-A750GN Nhanh Image,,,4319
+264,,,ClipTV.vn,Sender,Android SMS/MMS,4353,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[148] > Body
+json[148] > Recipients
+json[148] > Date
+json[148] > Type
+json[148] > Read
+json[148] > Address",samsung SM-A750GN Nhanh Image,,,4359
+265,,,0916322789,Recipient(s),Android SMS/MMS,4357,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[152] > Body
+json[152] > Address
+json[152] > Date
+json[152] > Type
+json[152] > Read
+json[152] > Recipients",samsung SM-A750GN Nhanh Image,,,4360
+266,,,1576,Sender,Android SMS/MMS,4361,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[154] > Body
+json[154] > Recipients
+json[154] > Date
+json[154] > Type
+json[154] > Read
+json[154] > Address",samsung SM-A750GN Nhanh Image,,,4363
+267,,,1098,Sender,Android SMS/MMS,4362,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[155] > Body
+json[155] > Recipients
+json[155] > Date
+json[155] > Type
+json[155] > Read
+json[155] > Address",samsung SM-A750GN Nhanh Image,,,4364
+268,,,1357,Sender,Android SMS/MMS,4358,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[153] > Body
+json[153] > Recipients
+json[153] > Date
+json[153] > Type
+json[153] > Read
+json[153] > Address",samsung SM-A750GN Nhanh Image,,,4368
+269,,,MyViettel,Sender,Android SMS/MMS,4365,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[156] > Body
+json[156] > Recipients
+json[156] > Date
+json[156] > Type
+json[156] > Read
+json[156] > Address",samsung SM-A750GN Nhanh Image,,,4370
+270,,,VinaPhone,Sender,Android SMS/MMS,4382,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[172] > Body
+json[172] > Recipients
+json[172] > Date
+json[172] > Type
+json[172] > Read
+json[172] > Address",samsung SM-A750GN Nhanh Image,,,4386
+271,,,VT_MALL,Sender,Android SMS/MMS,4391,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[179] > Body
+json[179] > Recipients
+json[179] > Date
+json[179] > Type
+json[179] > Read
+json[179] > Address",samsung SM-A750GN Nhanh Image,,,4398
+272,,,9345,Sender,Android SMS/MMS,4393,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[181] > Body
+json[181] > Recipients
+json[181] > Date
+json[181] > Type
+json[181] > Read
+json[181] > Address",samsung SM-A750GN Nhanh Image,,,4399
+273,,,NAPTHE-VNP,Sender,Android SMS/MMS,4410,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[195] > Body
+json[195] > Recipients
+json[195] > Date
+json[195] > Type
+json[195] > Read
+json[195] > Address",samsung SM-A750GN Nhanh Image,,,4411
+274,,,+84916322789,Sender,Android SMS/MMS,4395,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[159] > Body
+json[159] > Recipients
+json[159] > Date
+json[159] > Type
+json[159] > Read
+json[159] > Address",samsung SM-A750GN Nhanh Image,,,4415
+275,,,1414,Sender,Android SMS/MMS,4462,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[245] > Body
+json[245] > Recipients
+json[245] > Date
+json[245] > Type
+json[245] > Read
+json[245] > Address",samsung SM-A750GN Nhanh Image,,,4468
+276,,,900,Sender,Android SMS/MMS,4461,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[243] > Body
+json[243] > Recipients
+json[243] > Date
+json[243] > Type
+json[243] > Read
+json[243] > Address",samsung SM-A750GN Nhanh Image,,,4470
+277,,,BoCT-THQG,Sender,Android SMS/MMS,4469,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[253] > Body
+json[253] > Recipients
+json[253] > Date
+json[253] > Type
+json[253] > Read
+json[253] > Address",samsung SM-A750GN Nhanh Image,,,4471
+278,,,1414,Recipient(s),Android SMS/MMS,4463,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[246] > Body
+json[246] > Address
+json[246] > Date
+json[246] > Type
+json[246] > Read
+json[246] > Recipients",samsung SM-A750GN Nhanh Image,,,4473
+279,,,0986919333,Recipient(s),Android SMS/MMS,4492,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[273] > Body
+json[273] > Address
+json[273] > Date
+json[273] > Type
+json[273] > Read
+json[273] > Recipients",samsung SM-A750GN Nhanh Image,,,4499
+280,,,+84987706825,Recipient(s),Android SMS/MMS,4502,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[281] > Body
+json[281] > Address
+json[281] > Date
+json[281] > Type
+json[281] > Read
+json[281] > Recipients",samsung SM-A750GN Nhanh Image,,,4510
+281,,,CONG_1400,Sender,Android SMS/MMS,4514,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[292] > Body
+json[292] > Recipients
+json[292] > Date
+json[292] > Type
+json[292] > Read
+json[292] > Address",samsung SM-A750GN Nhanh Image,,,4522
+282,,,VNPT Money,Sender,Android SMS/MMS,4535,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[311] > Body
+json[311] > Recipients
+json[311] > Date
+json[311] > Type
+json[311] > Read
+json[311] > Address",samsung SM-A750GN Nhanh Image,,,4543
+283,,,0981188169,Recipient(s),Android SMS/MMS,4581,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[355] > Body
+json[355] > Address
+json[355] > Date
+json[355] > Type
+json[355] > Read
+json[355] > Recipients",samsung SM-A750GN Nhanh Image,,,4595
+284,,,+84981188169,Sender,Android SMS/MMS,4590,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[360] > Body
+json[360] > Recipients
+json[360] > Date
+json[360] > Type
+json[360] > Read
+json[360] > Address",samsung SM-A750GN Nhanh Image,,,4603
+285,,,Quy BTTEVN,Sender,Android SMS/MMS,4606,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[379] > Body
+json[379] > Recipients
+json[379] > Date
+json[379] > Type
+json[379] > Read
+json[379] > Address",samsung SM-A750GN Nhanh Image,,,4614
+286,,,+84975866892,Sender,Android SMS/MMS,4612,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[384] > Body
+json[384] > Recipients
+json[384] > Date
+json[384] > Type
+json[384] > Read
+json[384] > Address",samsung SM-A750GN Nhanh Image,,,4631
+287,,,0975866892,Recipient(s),Android SMS/MMS,4611,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[383] > Body
+json[383] > Address
+json[383] > Date
+json[383] > Type
+json[383] > Read
+json[383] > Recipients",samsung SM-A750GN Nhanh Image,,,4639
+288,,,VPBANK,Sender,Android SMS/MMS,4642,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.providers.telephony\d_f\000000_sms_backup,"json[411] > Body
+json[411] > Recipients
+json[411] > Date
+json[411] > Type
+json[411] > Read
+json[411] > Address",samsung SM-A750GN Nhanh Image,,,4646
+289,,,Châu Vũ,Authors,Microsoft Word Documents,7839,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\shared\0\Download\Pass.docx,n/a,samsung SM-A750GN Nhanh Image,,,7875
+290,,,Châu Vũ,Last Author,Microsoft Word Documents,7839,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\shared\0\Download\Pass.docx,n/a,samsung SM-A750GN Nhanh Image,,,7877
+291,,,+84337705477,Local User,Android Call Logs,7927,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.calllogbackup\k\com.android.calllogbackup.data,File Offset 0,samsung SM-A750GN Nhanh Image,,,7929
+292,,,+84917763677,Local User,Android Call Logs,8037,samsung SM-A750GN Nhanh Image.zip\adb-data.tar\apps\com.android.calllogbackup\k\com.android.calllogbackup.data,File Offset 23940,samsung SM-A750GN Nhanh Image,,,8042
